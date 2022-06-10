@@ -1,0 +1,21 @@
+[
+  {
+    "kind": "column",
+    "name": "Split String",
+    "description": "Split String to Array",
+    "author": "Moritz Wach",
+    "params": [
+      {
+        "name": "String",
+        "displayName": "String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": {
+        "kind": "array",
+        "items": "string"
+      }
+    }
+  }
+]
